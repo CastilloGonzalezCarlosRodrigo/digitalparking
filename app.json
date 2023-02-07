@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "digitalparking",
+    "slug": "digitalparking",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "digitalparking"
+}
